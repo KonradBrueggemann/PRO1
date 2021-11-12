@@ -1,4 +1,5 @@
-from collections import Counter
+#12.11.2021
+#Konrad Brüggemann, Julia Mühlbruch
 
 def histogram_characters_ger(input_sentence):
     sentence = input_sentence.lower()
