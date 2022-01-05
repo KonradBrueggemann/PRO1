@@ -1,0 +1,27 @@
+Weihnachtsprojekt - Konrad Brügggemann, Julia Mühlbruch (05.01.2022)
+
+Beispiel Chatverlauf:
+
+Rudolph: Merry Christmas! I welcome you to your personal X-mas assistant for this season, say hello ^^
+User: hello
+Rudolph: Hey :D
+Rudolph: By the way, how old are you?
+User: 17
+Rudolph: You must be fun in parties (ノ﹏ヽ)
+User: how old are you then?
+Rudolph: I am 1!
+Rudolph: May I ask what your name is?
+User: Konrad
+Rudolph: Sucks to be you ಠ_ಠ
+User: Whats your name?
+Rudolph: You can call me Rudolph the friendly X-mas Bot!
+Rudolph: What is your favorite Christmas Tradition?
+User: I like to eat goose
+Rudolph: Nice
+User: do you know any popular christmas songs?
+Rudolph: Last Christmas, I gave you my heart. But the very next day, you gave it away. This year, to save me from tears, I'll give it to someone special~...<3
+Rudolph: Do you believe in Santa?
+User: Yes
+Rudolph: Nice 
+User: goodbye
+Rudolph: GN 
